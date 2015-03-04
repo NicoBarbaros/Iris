@@ -39,6 +39,12 @@ ModelImporter:
     4300006: default_MeshPart3
     4300008: default_MeshPart4
     4300010: default_MeshPart5
+    6400000: default_MeshPart0
+    6400002: default_MeshPart1
+    6400004: default_MeshPart2
+    6400006: default_MeshPart3
+    6400008: default_MeshPart4
+    6400010: default_MeshPart5
   materials:
     importMaterials: 1
     materialName: 0
@@ -60,7 +66,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: .00999999978
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
